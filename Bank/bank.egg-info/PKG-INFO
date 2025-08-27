@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: bank
+Version: 1.0.0
+Summary: This is local package
+Author: Hotch
+Author-email: hotch@xyz.mail
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
